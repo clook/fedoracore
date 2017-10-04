@@ -1,0 +1,12 @@
+<template>
+    <name>fedora5</name>
+    <os>
+        <name>FedoraCore</name>
+        <version>5</version>
+        <arch>i386</arch>
+        <install type='url'>
+            <url>http://ftp-stud.hs-esslingen.de/pub/Mirrors/archive.fedoraproject.org/fedora/linux/core/5/i386/os/</url>
+        </install>
+        <rootpw>rrrrr</rootpw>
+    </os>
+</template>
